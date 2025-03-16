@@ -1,0 +1,5 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="=vQIysP$th-B;*74-;?}">start_time</variable><variable id="=mW7xGDsMai0K+Eyf[[$">end_time</variable><variable id=":r/pX$pM$e!^0;QdZgU4">elapsed_time</variable></variables><comment id="JL?9%Dk/mc?L}6^%k7LI" x="1194" y="1491" w="230" h="120">
+Another speed boost pad
+</comment><comment id="3So%`{2%(HhXNF[_NM1l" x="1469" y="1491" w="160" h="120">
+Timer Variable
+</comment></xml>
